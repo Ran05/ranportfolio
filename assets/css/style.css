@@ -42,7 +42,8 @@ section{
     margin: auto;
 }
 .about, .services, .skills, .teams, .contact, footer{
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'monsterrat', 'Lucida Sans';
 }
 .about .about-content, 
 .services .serv-content,
@@ -151,7 +152,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: #C2CCCE;
+    background: #6B0FE2;
     right: 30px;
     bottom: 10px;
     text-align: center;
